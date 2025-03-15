@@ -1,1 +1,1 @@
-##Quick web development projects from The Odin Project
+Quick web development projects from The Odin Projec
