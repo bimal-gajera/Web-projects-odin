@@ -1,0 +1,1 @@
+Implementation of grade-school classic "Rock Paper Scissors" using JavaScript.
